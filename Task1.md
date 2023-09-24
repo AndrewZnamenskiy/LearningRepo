@@ -66,4 +66,5 @@ Token в Settings -> Developer Settings. Срок действия Token 30-дн
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 [Ссылка на коммит Task1](https://github.com/AndrewZnamenskiy/LearningRepo/commit/c9a2554736716fbb103eabaf489c31a937d9ce7d)
+
 [Ссылка на .md файл](https://github.com/AndrewZnamenskiy/LearningRepo/blob/main/Task1.md)

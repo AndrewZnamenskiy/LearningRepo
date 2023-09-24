@@ -1,7 +1,5 @@
 ### TASK 3
 
-![Скриншот task1 p1](https://github.com/AndrewZnamenskiy/LearningRepo/blob/main/img/task1p1.png)
-
 1. Создайте новую ветку *Dev* и переключитесь на неё.
 
 `git checkout -b Dev`
@@ -54,31 +52,5 @@
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
 [Ссылка на граф](https://github.com/AndrewZnamenskiy/LearningRepo/network)
+
 [Ссылка на Task3.md](https://github.com/AndrewZnamenskiy/LearningRepo/blob/main/Task3.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-
-[Ссылка на коммит Task1](https://github.com/AndrewZnamenskiy/LearningRepo/commit/c9a2554736716fbb103eabaf489c31a937d9ce7d)
-[Ссылка на .md файл](https://github.com/AndrewZnamenskiy/LearningRepo/blob/main/Task1.md)
